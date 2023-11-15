@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tp_listes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tp_listes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
